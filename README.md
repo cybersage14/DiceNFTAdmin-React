@@ -1,12 +1,7 @@
 # The dashboard of Dice - Ordering service of NFT development
 
 ## Live site
-[![Live site](readme_images/guide-site.png)](https://admin.dice-nft.com/)
-
-## Contact info
-- **Email:** mr.new0509@gmail.com
-- **Telegram:** [@mrnew0509](https://t.me/mrnew0509)
-- **Skype:** [@sin085](https://join.skype.com/invite/xat3AgpiRVOI)
+![Live site](readme_images/guide-site.png)
 
 ## Release date
 TBD
